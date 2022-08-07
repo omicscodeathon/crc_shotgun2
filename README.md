@@ -1,2 +1,2 @@
-# amr_cattle
-Investigating Antimicrobial Resistant Genes in Kenyan Cattles Using Metagenomics
+# crc_shotgun2
+Shotgun Sequencing Analysis of the Gut Microbiome in Colorectal Cancer Patients
