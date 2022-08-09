@@ -7,7 +7,7 @@ Shotgun Sequencing Analysis of the Gut Microbiome in Colorectal Cancer Patients
  - Predict conserved bacterial functions using in silico bacterial metagenomic analysis  
 
 ## Methodology
- - Collect WGS samples of CRC patients
+ - Collect WGS samples of CRC patients and healthy individuals
  - Quality control
  - Trimming
  - Assembly
@@ -15,6 +15,6 @@ Shotgun Sequencing Analysis of the Gut Microbiome in Colorectal Cancer Patients
  - Taxonomic assignment
  - Diversity analysis
  - Taxonomic and Phylogenetic Analysis
- 
+
  ## Workflow
 ![figure](./figures/workflow.png)
