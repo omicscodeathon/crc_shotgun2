@@ -17,4 +17,4 @@ Shotgun Sequencing Analysis of the Gut Microbiome in Colorectal Cancer Patients
  - Taxonomic and Phylogenetic Analysis
  
  ## Workflow
-![figure](./figures/workflow.PNG)
+![figure](./figures/workflow.png)
