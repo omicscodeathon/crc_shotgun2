@@ -1,5 +1,5 @@
-# crc_shotgun2
-Shotgun Sequencing Analysis of the Gut Microbiome in Colorectal Cancer Patients
+# Shotgun Sequencing Analysis of the Gut Microbiome in Colorectal Cancer Patients
+
 
 ## Aim
  - Reveal the microbial composition and ecological changes in patients with colorectal cancer  
