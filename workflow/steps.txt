@@ -1,11 +1,8 @@
-Steps: [Convert the steps into workflow diagram (include tools for each step) and update README.md]
-. Pull down the reads
-.
-.
-.
-.
-.
-.
-.
-.
-.
+Steps:
+. Collect data
+. Preprocessing: Quality control and Trimming
+. Assembly analysis: metaSPAdes
+. Gene Prediction: FragGeneScan
+. Taxonomic identification: Kraken2
+. Functional Annotation: MicrobeAnnotator
+. Data analysis and visualization: R packages
