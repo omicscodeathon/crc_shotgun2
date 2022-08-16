@@ -1,8 +1,10 @@
 Steps:
 . Collect data
 . Preprocessing: Quality control and Trimming
-. Assembly analysis: metaSPAdes
-. Gene Prediction: FragGeneScan
-. Taxonomic identification: Kraken2
-. Functional Annotation: MicrobeAnnotator
+. Remove redundant genes: CD-HIT
+. Gene Prediction: metaGeneMark
+. Quantification: Salmon
+. Binning: MetaBAT 2
+. Identification, Annotation and Visualisation of gene clusters: SMASH
+. Taxonomic and functional information: MEGAN
 . Data analysis and visualization: R packages
