@@ -17,4 +17,4 @@
  - Taxonomic and Phylogenetic Analysis
 
  ## Workflow
-![figure](./figures/workflow.png)
+![figure](./figures/workflow2.png)
