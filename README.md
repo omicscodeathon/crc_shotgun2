@@ -10,11 +10,12 @@
  - Collect WGS samples of CRC patients and healthy individuals
  - Quality control
  - Trimming
- - Assembly
- - Gene Prediction and Functional annotation
- - Taxonomic assignment
- - Diversity analysis
- - Taxonomic and Phylogenetic Analysis
+ - Remove Redundant Genes
+ - Gene Prediction
+ - Quantification
+ - Binning
+ - Identification, Annotation, and Visualization of gene clusters
+ - Taxonomic and functional information
 
  ## Workflow
 ![figure](./figures/Workflow2.PNG)
