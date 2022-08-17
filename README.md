@@ -17,5 +17,6 @@
  - Identification, Annotation, and Visualization of gene clusters
  - Taxonomic and functional information
 
+
  ## Workflow
 ![figure](./figures/Workflow2.PNG)
