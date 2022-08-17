@@ -19,5 +19,5 @@
 
 
  ## Workflow
-![figure](./figures/workflow2.PNG)
+![figure](./figures/Workflow2.PNG)
  
