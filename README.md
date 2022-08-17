@@ -10,7 +10,7 @@
  - Collect WGS samples of CRC patients and healthy individuals
  - Quality control
  - Trimming
- - Remove Redundant Genes
+ - Remove Redundant Genes 
  - Gene Prediction
  - Quantification
  - Binning
