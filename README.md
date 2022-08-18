@@ -1,6 +1,6 @@
 # Shotgun Sequencing Analysis of the Gut Microbiome in Colorectal Cancer Patients
 
-##Introduction
+## Introduction
 Colorectal cancer (CRC) is a disease whereby uncontrolled division of abnormal cells is observed
 in the rectum or colon. It can also be referred to as bowel cancer due to the colon and rectum being a 
 part of the large intestine (the bowel). There are several factors that can be associated with the development
