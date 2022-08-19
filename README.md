@@ -13,7 +13,7 @@ and abundance of bacteria. Shotgun sequencing is useful in determining the genom
 breaking down the genome into small fragments. Computational tools and algorithms are then applied to 
 assemble the fragments into the full genome. Shotgun sequencing can include 16SrRNA sequencing or metagenomics
 sequencing. Shotgun 16SrRNA sequencing can be used to detect microbial communities and phylogenies within a sample.
-Shotgun metagenomics allows for better discrimination of taxonomic profiling at species level of strain level,
+Shotgun metagenomics allows for better discrimination of taxa at species level of strain level,
 functional characterisation and de novo assembly of metagenomes.
 
 ## Aim
