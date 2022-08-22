@@ -8,4 +8,4 @@ accessions="../accessions/accessions_32_crc_china_wgs_data.txt"
 
 output_dir="../fastqs"
 
-echo cat $accessions | xargs fasterq-dump -e $cpus --outdir $output_dir
+cat $accessions | xargs fasterq-dump -e $cpus --outdir $output_dir
