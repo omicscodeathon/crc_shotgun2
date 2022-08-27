@@ -9,6 +9,11 @@ datafiles="../fastqs/*.fastq"
 outdir_fastqc="../fastqc_reports"
 outdir_multiqc="../multiqc_reports"
 
+echo
+echo "Now creating the required reports directories ..."
+mkdir -pv $outdir_fastqc
+mkdir -pv $outdir_multiqc
+
 for datafile in $datafiles
  do
   fastqc -o $outdir_fastqc $datafile
