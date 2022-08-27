@@ -1,6 +1,7 @@
 Steps:
 . Collect data
 . Preprocessing: Quality control and Trimming
+. Assembly: MetaSPADES
 . Remove redundant genes: CD-HIT
 . Gene Prediction: metaGeneMark
 . Quantification: Salmon
