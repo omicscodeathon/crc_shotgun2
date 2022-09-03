@@ -1,27 +1,25 @@
-#!/usr/bin/env bash
-# This script performs Metagenome Assembly
-# Dependencies: SPAdes
+#/usr/bin/env bash
 
-cpus=24
-ram=24
+# This script uses Metaspages to assemble paired-end shotgun metagenomes
+# Dependencies: Metaspades.py
 
-# Create variables
-forward=$(ls ../fastqs/*_1.fastq)
+cpus=30
+ram=92
 
-#forward="../fastqs/*_1.fastq"
-#reverse="../fastqs/*_2.fastq"
-assembly_out="../test_assembled"
+#Create variables
+forward=$(ls ../fastqs/SRR1612416[89]*_1.fastq)
+assembly_out="../assembled_test2"
 
-#Run SPAdes
+#Run spades
 mkdir -pv ${assembly_out}
 
 echo "Now doing the metagenome assembly ..."
 
-for i in $forward
+for fwd in $forward
 do
-	samplename=`basename -s '_1.fastq' $i`
-	j=$(echo $i | sed 's/_1/_2/')
-	metaspades.py --threads $cpus -m $ram -1 ${i} -2 ${j} -o ${assembly_out}/${samplename}
+        samplename=`basename -s '_1.fastq' $fwd`
+        rev=$(echo $fwd | sed 's/_1/_2/')
+        metaspades.py -m $ram --threads $cpus -1 ${fwd} -2 ${rev} -o ${assembly_out}/${samplename}
 done
 
-echo "Metaspades assembly completed for all files!"
+echo "Assembly completed for all files"
