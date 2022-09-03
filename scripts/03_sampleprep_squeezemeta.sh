@@ -4,10 +4,19 @@
 # Dependencies: sed
 
 #Create variables
-infile="../accessions/samplelist_crc_old.txt"
-outfile="../accessions/sampleprep_crc_old.txt"
+infile1="../accessions/samplelist_crc_old.txt"
+outfile1="../accessions/sampleprep_crc_old.tsv"
+
+infile2="../accessions/samplelist_healthy_old.txt"
+outfile2="../accessions/sampleprep_healthy_old.tsv"
+
+infile3="../accessions/samplelist_crc_young.txt"
+outfile3="../accessions/sampleprep_crc_young.tsv"
+
+infile4="../accessions/samplelist_healthy_young.txt"
+outfile4="../accessions/sampleprep_healthy_young.tsv"
 
 # Run the conversion command
-sed 's/\,/\t/g' $infile > $outfile
+sed 's/\,/\t/g' $infile1 > $outfile1
 
 echo "Sample conversion completed successfully!"
