@@ -13,7 +13,7 @@ forward=$(ls ../fastqs/crc_old/*_1.fastq)
 #forward3=$(ls ../fastqs/crc_old/SRR1612432[023]*_1.fastq)
 taxapro_out="taxapro_outdir"
 
-#Run spades
+#Run TAXAPRO
 
 echo "Now Running the Taxapro Pipeline ..."
 
