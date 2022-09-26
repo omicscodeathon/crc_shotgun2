@@ -20,6 +20,7 @@ functional characterisation and de novo assembly of metagenomes.
  - Reveal the microbial composition and ecological changes in patients with colorectal cancer  
  - Characterize microbial implicates in Colorectal Cancer infections using shotgun metagenomics approach  
  - Predict conserved bacterial functions using in-silico bacterial metagenomic analysis  
+![figure](./figures/data_samples.png)
 
 ## Methodology
  - Collect WGS samples of CRC patients and healthy individuals
@@ -34,5 +35,5 @@ functional characterisation and de novo assembly of metagenomes.
 
 
  ## Workflow
-![figure](./figures/Workflow2.PNG)
+![figure](./figures/pipeline.png)
    
