@@ -37,4 +37,11 @@ functional characterisation and de novo assembly of metagenomes.
 
  ## Workflow
 ![figure](./figures/pipeline.png)
-   
+
+ ## People/ Team
+ * Olaitan I. Awe, African Society for Bioinformatics and Computational Biology, laitanawe@gmail.com
+ * Nouhaila En najih, Systems and Data Engineering Team, Abdelmalek Essaadi University, nouhailaennajih25@gmail.com
+ * Ruvarashe Joylyne Madzime, Faculty of Medicine and Health Sciences, Stellenbosch University, ruvarashemadzime@gmail.com
+ * Omolanke Temitope Oyedemi, Department of Microbiology, Adeleke University, topeoyedemi07@gmail.com
+ * Edward Jenner Tettevi, Biomedical and Public Health Research Unit, Council for Scientific and Industrial Research-WRI, ejtettevi@gmail.com
+ * Latifah Benta Mukanga, Department of Life Sciences, South Eastern Kenya University, latifahmukanga@gmail.com
