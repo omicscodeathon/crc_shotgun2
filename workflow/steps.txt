@@ -1,12 +1,8 @@
 Steps:
 . Collect data
 . Preprocessing: Quality control and Trimming
-. Assembly: MetaSPADES
-. Remove redundant genes: CD-HIT
-. Gene Prediction: metaGeneMark
-. Quantification: Salmon
-. Binning: MetaBAT 2
-. Identification, Annotation and Visualization of gene clusters: SMASH
-. Taxonomic and functional information: MEGAN
-. Data analysis and visualization: R packages
- 
+. Divide the 32 samples into 4 groups: crc old, crc young, healthy old and healthy young.
+. Analyse data for the 4 groups separatly using squeezemeta (co-assembly mode).
+. Data analysis and visualization: R packages.
+. Compare the output of the 4 groups.
+. Interprate results.
