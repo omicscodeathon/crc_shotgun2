@@ -17,26 +17,17 @@ Shotgun metagenomics allows for better discrimination of taxa at species level o
 functional characterisation and de novo assembly of metagenomes.
 
 ## Aim
- - Reveal the microbial composition and ecological changes in patients with colorectal cancer  
- - Characterize microbial implicates in Colorectal Cancer infections using shotgun metagenomics approach  
- - Predict conserved bacterial functions using in-silico bacterial metagenomic analysis  
- - Validate the pipeline using Squeezemeta and YAMP
+Determine the taxonomic abundance and functional potential of the microbial communities of colorectal cancer patients
+## Objectives  
+ 
+ - Compare the gut microbiome composition of colorectal cancer patients with healthy individuals.
+ - Compare the gut microbiome composition between old and young colorectal cancer patients.
+ - Predict conserved bacterial functions using in-silico bacterial metagenomic analysis 
 ![figure](./figures/data_samples.png)
 
-## Methodology
- - Collect WGS samples of CRC patients and healthy individuals
- - Quality control
- - Trimming
- - Remove Redundant Genes 
- - Gene Prediction
- - Quantification
- - Binning
- - Identification, Annotation, and Visualization of gene clusters
- - Taxonomic and functional information
 
 
- ## Workflow
-![figure](./figures/pipeline.png)
+
 
  ## People/ Team
  * Olaitan I. Awe, African Society for Bioinformatics and Computational Biology, laitanawe@gmail.com
