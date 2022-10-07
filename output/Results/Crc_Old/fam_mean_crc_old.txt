@@ -1,0 +1,17 @@
+	fam_mean
+Bacteroidaceae	21402905
+Akkermansiaceae	1789384.625
+Veillonellaceae	731599
+Unclassified.Eubacteriales	7591494.5
+Oscillospiraceae	6179382.875
+Selenomonadaceae	776953.5
+Lachnospiraceae	2526461.375
+Unclassified.Bacteroidales	2996008
+Rikenellaceae	853203.5
+Eggerthellaceae	1176398
+Lactobacillaceae	2638221.5
+Prevotellaceae	2284158.75
+Fusobacteriaceae	46829.5
+Rikenellaceae.1	853203.5
+Tannerellaceae	1269215.875
+Coriobacteriaceae	1559558.5
