@@ -1,0 +1,11 @@
+	family_healthy_young
+Bacteroidaceae	25278083.875
+Oscillospiraceae	6998189
+Prevotellaceae	9575503.625
+Lachnospiraceae	3630925.75
+Selenomonadaceae	889716.5
+Veillonellaceae	556402.25
+Eubacteriaceae	282353.75
+Rikenellaceae	1479784.625
+Tannerellaceae	1441895.875
+Clostridiaceae	977437.125
