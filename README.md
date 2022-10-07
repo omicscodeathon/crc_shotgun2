@@ -7,14 +7,7 @@ part of the large intestine (the bowel). There are several factors that can be a
 of CRC such as age, sex, and race/ethnicity.
 In recent years, it has been suggested that microbes colonizing the gut, contribute to cancer growth in
 the colon or rectum. This has led to researchers investigating the dynamic and variable gut microbiome,
-so as to understand its role in promoting CRC. 
-Next Generation Sequencing technologies allow for a flexible investigation of variation in diversity 
-and abundance of bacteria. Shotgun sequencing is useful in determining the genome of an organism. It involves
-breaking down the genome into small fragments. Computational tools and algorithms are then applied to 
-assemble the fragments into the full genome. Shotgun sequencing can include 16SrRNA sequencing or metagenomics
-sequencing. Shotgun 16SrRNA sequencing can be used to detect microbial communities and phylogenies within a sample.
-Shotgun metagenomics allows for better discrimination of taxa at species level of strain level,
-functional characterisation and de novo assembly of metagenomes.
+so as to understand its role in promoting CRC.
 
 ## Aim
 Determine the taxonomic abundance and functional potential of the microbial communities of colorectal cancer patients
