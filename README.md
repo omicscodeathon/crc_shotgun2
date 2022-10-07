@@ -8,14 +8,19 @@ of CRC such as age, sex, and race/ethnicity.
 In recent years, it has been suggested that microbes colonizing the gut, contribute to cancer growth in
 the colon or rectum. This has led to researchers investigating the dynamic and variable gut microbiome,
 so as to understand its role in promoting CRC.
+
+
 ![figure](./figures/data_samples.png)
+
 ## Aim
 Determine the taxonomic abundance and functional potential of the microbial communities of colorectal cancer patients
+
 ## Objectives  
  
  - Compare the gut microbiome composition of colorectal cancer patients with healthy individuals.
  - Compare the gut microbiome composition between old and young colorectal cancer patients.
  - Predict conserved bacterial functions using in-silico bacterial metagenomic analysis 
+ 
 ![figure](./figures/run_squeezemeta.png)
 
 
