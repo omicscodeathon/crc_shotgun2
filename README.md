@@ -19,7 +19,9 @@ Determine the taxonomic abundance and functional potential of the microbial comm
 ![figure](./figures/data_samples.png)
 
 
-
+## Future Work
+* Use larger data for the analysis
+* Use other pipelines for validation
 
 
  ## People/ Team
