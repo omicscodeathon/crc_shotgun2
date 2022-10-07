@@ -10,7 +10,7 @@ the colon or rectum. This has led to researchers investigating the dynamic and v
 so as to understand its role in promoting CRC.
 
 
-           ![figure](./figures/data_samples.png)
+      ![figure](./figures/data_samples.png)
 
 ## Aim
 Determine the taxonomic abundance and functional potential of the microbial communities of colorectal cancer patients
