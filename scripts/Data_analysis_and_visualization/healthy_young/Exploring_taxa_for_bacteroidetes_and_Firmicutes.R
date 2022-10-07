@@ -1,3 +1,9 @@
+#Loading necessary packages
+library('SQMtools')
+library('ggplot2')
+#Creating SQM object
+healthy_young <- loadSQM("~/my_shared_data_folder/crcshotgun/squeezemeta_out/healthy_young")
+View(healthy_young)
 #Exploring the most common taxa bacteroidetes
 bactero <- subsetTax(healthy_young, 'phylum', tax = 'Bacteroidetes', 
                      rescale_copy_number = F)
