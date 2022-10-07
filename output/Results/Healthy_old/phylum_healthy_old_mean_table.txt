@@ -1,0 +1,11 @@
+	phylum_healthy_old
+Bacteroidetes	36615907.875
+Firmicutes	18716074.25
+Proteobacteria	7093681.75
+Uroviricota	777752.375
+Actinobacteria	511741.75
+Chordata	165905.375
+Streptophyta	12197.125
+Verrucomicrobia	11178.875
+Synergistetes	8821.5
+Apicomplexa	2386.25
