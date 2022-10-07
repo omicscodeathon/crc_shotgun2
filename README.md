@@ -10,7 +10,7 @@ the colon or rectum. This has led to researchers investigating the dynamic and v
 so as to understand its role in promoting CRC.
 
 
-![figure](./figures/data_samples.png)
+           ![figure](./figures/data_samples.png)
 
 ## Aim
 Determine the taxonomic abundance and functional potential of the microbial communities of colorectal cancer patients
@@ -21,7 +21,7 @@ Determine the taxonomic abundance and functional potential of the microbial comm
  - Compare the gut microbiome composition between old and young colorectal cancer patients.
  - Predict conserved bacterial functions using in-silico bacterial metagenomic analysis 
  
-![figure](./figures/run_squeezemeta.png)
+     ![figure](./figures/run_squeezemeta.png)
 
 
 ## Future Work
