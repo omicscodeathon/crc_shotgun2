@@ -19,7 +19,8 @@ Determine the taxonomic abundance and functional potential of the microbial comm
  
  - Compare the gut microbiome composition of colorectal cancer patients with healthy individuals.
  - Compare the gut microbiome composition between old and young colorectal cancer patients.
- - Predict conserved bacterial functions using in-silico bacterial metagenomic analysis 
+ - Determine potential functions of the gut microbiome.
+
  
      ![figure](./figures/final_workflow.png)
 
