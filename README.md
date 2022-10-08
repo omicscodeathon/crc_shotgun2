@@ -25,8 +25,8 @@ Determine the taxonomic abundance and functional potential of the microbial comm
 
 
 ## Future Work
-* Use larger data for the analysis
-* Use other pipelines for validation
+* Use a larger dataset (>= 100) for a more robust analysis
+* Use other pipelines for validation, including developing a custom pipeline.
 
 
  ## People/ Team
